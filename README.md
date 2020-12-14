@@ -39,8 +39,3 @@ Upload `airports.txt` you created in step 12 to this repository
 Deliverable:
 Take a screenshot of the attribute table from step 15 and name it `screencap_precip_by_year_table.png`
 
-### 5. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/processing_python_plugin.html
-
-Deliverable:
-At step 28, After setting your custom icon, take a screenshot of your Processing Toolbox showing the custom tool and icon, name it `screencap_tool.png` to this repository.
-
