@@ -9,7 +9,7 @@ A very common task in GIS is turning formatted text files into spatial data laye
 1. `screencap-piracy-hotspots.png`
 2. `screencap-shortest-paths.png`
 3. `airports.txt`
-4. `screencap_precip_by_year_table.png`
+4. `screencap-precip-by-year-table.png`
 
 ## Assignment
 
@@ -34,5 +34,5 @@ Upload `airports.txt` you created in step 12 to this repository
 ### 4. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/processing_algorithms_pyqgis.html
 
 Deliverable:
-Take a screenshot of the attribute table from step 15 and name it `screencap_precip_by_year_table.png`
+Take a screenshot of the attribute table from step 15 and name it `screencap-precip-by-year-table.png`
 
