@@ -1,4 +1,4 @@
-assignmentname: Check for required files
+name: Check for required files
 
 on:
   push:
