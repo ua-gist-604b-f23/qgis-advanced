@@ -19,7 +19,7 @@ Perform all your work in the `assignment` branch. When you have completed the as
 ### 1. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/processing_graphical_modeler.html
 
 Deliverable:
-Take a screenshot of your QGIS Desktop at the final step (step 29) and name it `screencap-piracy-hostspots.png`
+Take a screenshot of your QGIS Desktop at the final step (step 29) and name it `screencap-piracy-hotspots.png`
 
 ### 2. Follow the tutorial at http://www.qgistutorials.com/en/docs/3/origin_destination_matrix.html
 
